@@ -1,0 +1,7 @@
+**/.project
+**/.classpath
+**/.settings
+template-microservice/template-microservice-api/target
+template-microservice/template-microservice-camel/target
+template-microservice/template-microservice-model/target
+template-rest/target
